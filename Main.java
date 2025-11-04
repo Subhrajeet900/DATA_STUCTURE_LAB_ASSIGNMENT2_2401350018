@@ -1,8 +1,9 @@
 // ===============================================
 // Customer Support Ticket System (Java - Simple Version)
-// Save as: Main.java
-// Compile: javac Main.java
-// Run:     java Main
+// name - subhrajeet 
+// roll no - 2401350018
+// course - btech cse fsd
+// subject - data stucture lab assignment
 // ===============================================
 import java.util.*;
 
